@@ -1,4 +1,4 @@
-# Hostika优惠码和2024年最新Hostika云服务器优惠活动整理
+# Hostika优惠码和2025年最新Hostika云服务器优惠活动整理
 
 ## Hostika 介绍
 Hostika.LT 提供位于欧洲立陶宛的VPS服务器。我们的服务包括具有全根访问权限的高性能Linux KVM VPS服务器，以及配备闪电般快速NVMe SSD的服务器选项。
